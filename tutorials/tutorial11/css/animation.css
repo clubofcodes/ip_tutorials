@@ -1,0 +1,29 @@
+.head {
+    background-color: black;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    box-shadow: 0px 0px 10px 5px white;
+    border-radius: 8px;
+    border-color: transparent;
+    max-width: 30rem;
+    position: relative;
+    display: flow-root;
+}
+
+.hidden {
+    display: none!important
+}
+
+.required {
+    color: red;
+}
+
+.shadow-danger {
+    border-color: #ff0000;
+    box-shadow: 0px 0px 15px rgba(251, 35, 35, 0.71);
+}
+
+.shadow-success {
+    border-color: #00ff00;
+    box-shadow: 0px 0px 15px rgba(10, 225, 10, 0.71);
+}

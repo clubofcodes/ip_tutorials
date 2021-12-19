@@ -1,0 +1,32 @@
+         body { 
+         font-size:20px; 
+         font-family:arial;
+         color: black;
+         } 
+         label{
+         display: table-cell;
+         text-align: justify;
+         }
+         input {
+         display: table-cell;
+         }
+         div.row{
+         display:table-row;
+         }
+         .head{
+         background-color :white;
+         margin-top: 20px;
+         margin-bottom: 30px;
+         box-shadow: 1px 1px 15px 4px yellowgreen;
+         }
+         .input{
+            border:none;
+            border: 10px solid;
+            height: 40px; 
+            font-size: 16px;
+            width: 100%;
+            padding: 5px;
+            border-radius: 8px;
+            border-color: transparent;
+            margin-bottom: 20px;
+            }
